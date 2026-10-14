@@ -1,6 +1,6 @@
 # Core Hugo settings. Most users should not need to edit this file.
 # Personal information and site options live in data/profile.toml.
-baseURL = "https://example.org/"
+baseURL = "https://larsentroy.github.io/"
 languageCode = "en-us"
 title = "Academic Website"
 disableKinds = ["taxonomy", "term"]
