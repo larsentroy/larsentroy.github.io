@@ -30,7 +30,7 @@ research_interests = [
 ]
 
 # PDF shown as a navigation tab. Replace static/files/cv.pdf with your CV.
-cv = "files/cv.pdf"
+cv = "static/files/cv.pdf"
 cv_label = "CV"
 
 [site]
