@@ -267,7 +267,7 @@ html.dark .theme-icon.sun-icon { display: block; }
   width: 168px;
   height: 168px;
   object-fit: cover;
-  object-position: center 45%;
+  object-position: center 55%;
   border: 1px solid var(--border-strong);
   background: var(--surface);
   box-shadow: var(--shadow);
