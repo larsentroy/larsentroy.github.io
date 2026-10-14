@@ -2,19 +2,19 @@
 # selected = true displays an item in the Selected Publications block on the homepage.
 
 [[publication]]
-title = "A Sample Paper on Scalable Scientific Computing"
-authors = "Your Name, Collaborator One, and Collaborator Two"
-venue = "Journal of Computational Methods"
+title = "A new kernel-based approach for the global sensitivity analysis of models with correlated inputs"
+authors = "Troy Larsen, Alen Alexanderian"
+venue = "SIAM/ASA Journal of Uncertainty Quantification (in review)"
 year = 2026
 selected = true
-doi = "https://doi.org/10.0000/example.2026.001"
+doi = "https://arxiv.org/abs/2603.00849"
 pdf = ""
 code = ""
-abstract = "A concise example entry showing how publications are rendered from a small data file."
-bibtex = """@article{yourname2026sample,
-  title   = {A Sample Paper on Scalable Scientific Computing},
-  author  = {Your Name and Collaborator One and Collaborator Two},
-  journal = {Journal of Computational Methods},
+abstract = "We present an HSIC-based approach for global sensitivity analysis of broad classes of models with correlated and possibly function-valued inputs and outputs. To this end, we define the first-order and total HSIC sensitivity indices, which are bounded, interpretable, and moment-independent analogues to the first-order and total-effect Sobol' indices, respectively. These desirable qualities hinge upon the key property of monotonicity under marginalization for the HSIC. We rigorously establish this monotonicity property by using a suitable class of augmented kernels. Furthermore, we provide an efficient algorithm for computing an empirical estimator of the HSIC that significantly reduces computational complexity and storage requirements. The effectiveness and interpretability of the first-order and total HSIC sensitivity indices are demonstrated through computational experiments on models that feature nonlinear relationships, correlated inputs, and functional outputs."
+bibtex = """@article{Larsen2026,
+  title   = {A new kernel-based approach for the global sensitivity analysis of models with correlated inputs},
+  author  = {Troy Larsen and Alen Alexanderian},
+  journal = {SIAM/ASA Journal of Uncertainty Quantification},
   year    = {2026}
 }"""
 
