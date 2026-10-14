@@ -23,9 +23,9 @@ education = [
 ]
 
 research_interests = [
-  "Numerical linear algebra",
+  "Uncertainty quantification",
   "Scientific computing",
-  "Optimization",
+  "Inverse problems",
   "Randomized algorithms"
 ]
 
@@ -35,7 +35,7 @@ cv_label = "CV"
 
 [site]
 description = "Academic website of Troy Larsen, PhD student in applied mathematics."
-keywords = ["applied mathematics", "scientific computing", "numerical linear algebra"]
+keywords = ["applied mathematics", "uncertainty quantification", "scientific computing"]
 default_theme = "system" # system, light, or dark
 enable_search = true
 enable_back_to_top = true
