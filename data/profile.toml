@@ -4,12 +4,12 @@
 # Site-wide identity, links, appearance, and feature switches live here.
 # Content pages remain independent Markdown files inside content/.
 
-name = "Your Name"
+name = "Troy Larsen"
 title = "PhD Student in Applied Mathematics"
-institution = "Your University"
+institution = "North Carolina State University"
 department = "Department of Mathematics"
-email = "you@university.edu"
-location = "City, State"
+email = "tjlarse2@ncsu.edu"
+location = "Raleigh, NC"
 avatar = "images/avatar.svg"
 avatar_alt = "Profile portrait"
 
@@ -17,8 +17,9 @@ avatar_alt = "Profile portrait"
 about = "I am a graduate student interested in applied mathematics and scientific computing. My work focuses on developing scalable computational methods for challenging problems in science and engineering."
 
 education = [
-  "Ph.D. in Applied Mathematics, Your University (expected 20XX)",
-  "M.S. in Mathematics, Previous University (20XX)"
+  "Ph.D. in Applied Mathematics, North Carolina State University (expected 2028)",
+  "M.S. in Applied Mathematics, North Carolina State University (2025)",
+  "B.S. in Mathematics and Classics, Washington and Lee University (2022)"
 ]
 
 research_interests = [
@@ -33,7 +34,7 @@ cv = "files/cv.pdf"
 cv_label = "CV"
 
 [site]
-description = "Academic website of Your Name, PhD student in applied mathematics."
+description = "Academic website of Troy Larsen, PhD student in applied mathematics."
 keywords = ["applied mathematics", "scientific computing", "numerical linear algebra"]
 default_theme = "system" # system, light, or dark
 enable_search = true
